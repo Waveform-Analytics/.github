@@ -9,6 +9,8 @@ At Waveform Analytics, we believe that scientific progress happens best in an op
 
 One of our core values is the belief that **promoting scientific and technical literacy is crucial in today's uncertain world**. 
 
-Today, we have access to an unprecedented amount of scientific data. However, the communication of these findings to key groups — such as industry clients, government agencies, the public, and even fellow scientists — frequently poses significant challenges. At Waveform Analytics, we aim to develop the tools and expertise needed to translate complex findings into visual representations that can enable understanding and informed decision-making.
+There is an abundance of scientific data available, but it can be challenging to present those data in a way that's understandable.
 
-For more information, please email [info@waveformanalytics.com](mailto:info@waveformanalytics.com).
+At Waveform Analytics, we aim to develop  tools and expertise for translating complex findings into intuitive visuals.
+
+For more information, or for inquiries about custom products or training, please email [info@waveformanalytics.com](mailto:info@waveformanalytics.com).
