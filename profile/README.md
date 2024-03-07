@@ -1,4 +1,5 @@
-![WA Logo](https://github.com/Waveform-Analytics/.github/blob/main/profile/WA-logo-with-text%402x.png)
+<img src="https://github.com/Waveform-Analytics/.github/blob/main/profile/WA-logo-with-text%402x.png" alt="WA Logo" width="300">
+
 # Tools and Examples
 
 Welcome! We're glad you're here. There's not much to see yet but stay tuned for some exciting additions in the near future!
