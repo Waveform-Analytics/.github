@@ -1,6 +1,6 @@
 # Tools and Examples
 
-Welcome! We're glad you're here. There's not much to see yet but stay tuned for some exciting additions in the near future! 
+Welcome! Our first repository is live! If you're curious, please head on over to the [animal density demo](https://github.com/Waveform-Analytics/wa_density_demo) and check out the **notebooks** folder for a quick overview of the processing steps.
 
 ## Mission
 
