@@ -2,6 +2,7 @@
 
 - **[Animal density demo](https://github.com/Waveform-Analytics/wa_density_demo)**: In this demo we walk through how you can load, prepare, and visualize marine mammal density data from [the Marine Geospatial Ecology Laboratory / Duke University](https://seamap.env.duke.edu/models/Duke/EC/). ([Live demo](https://waveform-analytics.github.io/wa_density_demo/)]
 - **[Marine mammal exposures demo](https://github.com/Waveform-Analytics/wa_animat_demo)**: This dashboard explores a demo dataset describing the number of animals predicted to be impacted in some way from offshore construction noise. ([Live demo](https://waveform-analytics.github.io/wa_animat_demo/))
+- **[Distances to noise impact thresholds](https://github.com/Waveform-Analytics/wf-distances)**: Installation of offshore wind turbines generates noise, and it's important, for monitoring and mitigation purposes, to understand how far away marine mammals need to be to avoid being injured or experiencing behavioral disturbance. This dashboard helps to quickly understand what the model results are showing. ([Live demo](https://waveform-analytics.github.io/wf-distances/))
 
 ## Mission
 
